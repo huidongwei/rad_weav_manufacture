@@ -9,7 +9,3 @@ A dynamic simulation by using FEA is shown below:
 
 ![Image](/res/figure/weaving%20simulation_warp_SC_weft_SL_mu_0.7.gif)
 
-<p align="center">
-    <img src="/res/figures/weaving simulation_warp_SC_weft_SL_mu_0.7.gif" width="70%" align="center">
-</p>
-

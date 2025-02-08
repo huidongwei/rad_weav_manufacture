@@ -7,6 +7,7 @@ Fabrics can be produced by weaving process shown below. The FEA simulation can b
     <img src="/res/figure/Captur_simplied2_mesh.GIF" width="40%" align="right">
 </p>
 
+---
 
 ### **Summary**
 

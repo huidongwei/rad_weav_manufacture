@@ -1,7 +1,6 @@
 # rad_weav_manufacture
 A virtual dynamic FEA simulation for weaving manufacture of fabrics.
-Fabrics can be produced by weaving process shown below. The FEA simulation can be used to show this dynamic process</br>.
-
+Fabrics can be produced by weaving process shown below. The FEA simulation can be used to show this dynamic process.</br>
 <p align="center">
     <img src="/res/figure/Captur_simplied2_fusion2.GIF" width="50%" align="left">
     <img src="/res/figure/Captur_simplied2_mesh.GIF" width="50%" align="right">
